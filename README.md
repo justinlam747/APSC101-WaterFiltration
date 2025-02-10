@@ -32,5 +32,5 @@ A microcontroller-based filtration prototype designed to automate water purifica
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/water-treatment-system.git
+   git clone https://github.com/justinlam6/water-treatment-system.git
    cd water-treatment-system
