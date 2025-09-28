@@ -4,7 +4,7 @@ A microcontroller-based filtration prototype designed to automate water purifica
 
 ## Showcase
 
-![ClosedView](./WaterFiltrationDemos/ClosedView.jpg)
+![ClosedView](./WaterFiltrationDemos/ClosedView.JPG)
 
 ## Features
 
