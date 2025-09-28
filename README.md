@@ -2,6 +2,10 @@
 
 A microcontroller-based filtration prototype designed to automate water purification processes using sensors, pumps, and servo motors. Developed with **Arduino**, the system utilizes conditionals and loops to maintain a continuous filtration cycle. Real-time turbidity monitoring and an emergency stop function enhance reliability, making it a scalable solution for rural communities.
 
+## Showcase
+
+![ClosedView][./WaterFiltrationDemos/ClosedView.jpg]
+
 ## Features
 
 - **Automated Water Filtration**: Controls pumps and motors to regulate water flow and filtration.
