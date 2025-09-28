@@ -8,7 +8,7 @@ A microcontroller-based filtration prototype designed to automate water purifica
 ![ClosedView](./WaterFiltrationDemos/ClosedView.JPG)
 
 ### 3D modelled part used for the servo motor for dispensing  
-![ModelPart](./WaterFiltrationDemos/PartsDrawing.png)
+![ModelPart](./WaterFiltrationDemos/DispensingPart.png)
 
 ### Open view SLWD of the entire mechanism
 ![OpenViewDrawing](./WaterFiltrationDemos/OpenViewDrawing.jpg)
